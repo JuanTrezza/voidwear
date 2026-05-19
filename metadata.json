@@ -1,0 +1,6 @@
+{
+  "name": "VOID//WEAR Tactical Interface",
+  "description": "High-performance underground streetwear collective. Cyberpunk-inspired tactical apparel for the digital age.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
